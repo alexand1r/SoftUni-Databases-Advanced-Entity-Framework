@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Export\bin\Debug\ExamPrep.Export.exe.config

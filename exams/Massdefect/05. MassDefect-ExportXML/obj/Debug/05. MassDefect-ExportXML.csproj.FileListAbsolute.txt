@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\Massdefect\05. MassDefect-ExportXML\bin\Debug\_05.MassDefect_ExportXML.exe.config

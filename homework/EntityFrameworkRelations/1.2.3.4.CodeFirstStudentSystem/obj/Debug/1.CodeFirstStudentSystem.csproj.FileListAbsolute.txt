@@ -1,0 +1,13 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\1.CodeFirstStudentSystem.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\obj\Debug\1.CodeFirstStudentSystem.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\1.CodeFirstStudentSystem.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\1.CodeFirstStudentSystem.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\obj\Debug\1.CodeFirstStudentSystem.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\obj\Debug\1.CodeFirstStudentSystem.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\obj\Debug\_1.CodeFirstStudentSystem.Migrations.Seeded.resources
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\obj\Debug\1.CodeFirstStudentSystem.csproj.GenerateResource.Cache
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkRelations\1.CodeFirstStudentSystem\obj\Debug\_1.CodeFirstStudentSystem.Migrations.AddedLicencesToResources.resources

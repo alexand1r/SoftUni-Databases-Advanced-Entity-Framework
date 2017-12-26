@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\7.PrintAllMinionNames\bin\Debug\7.PrintAllMinionNames.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\7.PrintAllMinionNames\bin\Debug\7.PrintAllMinionNames.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\7.PrintAllMinionNames\bin\Debug\7.PrintAllMinionNames.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\7.PrintAllMinionNames\obj\Debug\7.PrintAllMinionNames.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\7.PrintAllMinionNames\obj\Debug\7.PrintAllMinionNames.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\7.PrintAllMinionNames\obj\Debug\7.PrintAllMinionNames.pdb

@@ -1,0 +1,17 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\CollisionTest.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\CollisionTest.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\obj\x86\Debug\CollisionTest.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\obj\x86\Debug\CollisionTest.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\bin\x86\Debug\Content\Sprites\Rect.xnb
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\CollisionTest\CollisionTest\obj\x86\Debug\CollisionTest.csprojResolveAssemblyReference.cache

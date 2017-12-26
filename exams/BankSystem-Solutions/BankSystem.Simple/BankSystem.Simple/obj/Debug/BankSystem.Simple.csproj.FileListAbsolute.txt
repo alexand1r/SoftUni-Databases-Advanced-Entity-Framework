@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\BankSystem-Solutions\BankSystem.Simple\BankSystem.Simple\bin\Debug\BankSystem.Simple.exe.config

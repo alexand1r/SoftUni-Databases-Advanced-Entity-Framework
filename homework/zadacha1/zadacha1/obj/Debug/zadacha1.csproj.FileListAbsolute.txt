@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\zadacha1\zadacha1\bin\Debug\zadacha1.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\zadacha1\zadacha1\bin\Debug\zadacha1.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\zadacha1\zadacha1\bin\Debug\zadacha1.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\zadacha1\zadacha1\obj\Debug\zadacha1.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\zadacha1\zadacha1\obj\Debug\zadacha1.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\zadacha1\zadacha1\obj\Debug\zadacha1.pdb

@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\9.IncreaseAgeStoredProcedure\bin\Debug\9.IncreaseAgeStoredProcedure.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\9.IncreaseAgeStoredProcedure\bin\Debug\9.IncreaseAgeStoredProcedure.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\9.IncreaseAgeStoredProcedure\bin\Debug\9.IncreaseAgeStoredProcedure.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\9.IncreaseAgeStoredProcedure\obj\Debug\9.IncreaseAgeStoredProcedure.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\9.IncreaseAgeStoredProcedure\obj\Debug\9.IncreaseAgeStoredProcedure.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\9.IncreaseAgeStoredProcedure\obj\Debug\9.IncreaseAgeStoredProcedure.pdb

@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Models\bin\Debug\Project.Models.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Models\obj\Debug\Project.Models.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Models\bin\Debug\Project.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Models\bin\Debug\Project.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Models\obj\Debug\Project.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Models\obj\Debug\Project.Models.pdb

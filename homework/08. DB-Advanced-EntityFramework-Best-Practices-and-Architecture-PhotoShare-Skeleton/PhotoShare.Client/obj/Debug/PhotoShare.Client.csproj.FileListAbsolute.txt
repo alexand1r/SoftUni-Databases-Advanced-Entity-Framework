@@ -1,0 +1,12 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Client.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\PhotoShare.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\08. DB-Advanced-EntityFramework-Best-Practices-and-Architecture-PhotoShare-Skeleton\PhotoShare.Client\obj\Debug\PhotoShare.Client.pdb

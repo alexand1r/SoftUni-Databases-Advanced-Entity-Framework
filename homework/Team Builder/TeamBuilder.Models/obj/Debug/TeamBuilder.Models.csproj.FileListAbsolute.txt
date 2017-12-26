@@ -1,0 +1,10 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.dll.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\TeamBuilder.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.Models\obj\Debug\TeamBuilder.Models.pdb

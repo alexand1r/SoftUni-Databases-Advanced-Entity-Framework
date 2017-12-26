@@ -1,0 +1,12 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\CarDealer.Data.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\CarDealer.Data.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\CarDealer.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\CarDealer.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\CarDealer.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\obj\Debug\CarDealer.Data.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\obj\Debug\CarDealer.Data.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\CarDealer.Data\obj\Debug\CarDealer.Data.pdb

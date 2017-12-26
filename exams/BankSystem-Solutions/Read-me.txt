@@ -1,0 +1,8 @@
+These are solutions for "Bank System" task from "EntityFramework Relations" exercise.
+They are separated into two parts: "Simple" and "Complex".
+The so called "simple" solution is structured in non-strict style (3-4 classes used).
+This is appropriate for homework submission.
+On the other hand the "complex" solution has more developed class structure - more classes used,
+each separating concrete logic in it. It is appropriate for both homework submission and for
+teamwork project as well.
+The functionality in both solutions is the same - it's just the structure that makes the difference.

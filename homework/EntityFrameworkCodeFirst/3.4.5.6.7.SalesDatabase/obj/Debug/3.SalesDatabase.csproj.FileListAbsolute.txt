@@ -1,0 +1,14 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\3.SalesDatabase.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\3.SalesDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\3.SalesDatabase.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\3.SalesDatabase.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\3.SalesDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\3.SalesDatabase.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\_3.SalesDatabase.Migrations.ProductsAddColumnDescription.resources
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\3.SalesDatabase.csproj.GenerateResource.Cache
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\_3.SalesDatabase.Migrations.SalesAddDateDefault.resources
+C:\softuni\Databases Advanced - Entity Framework\homework\EntityFrameworkCodeFirst\3.SalesDatabase\obj\Debug\_3.SalesDatabase.Migrations.DefaultAgeValue.resources

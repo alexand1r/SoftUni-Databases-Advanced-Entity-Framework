@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\8.IncreaseMinionsAge\bin\Debug\8.IncreaseMinionsAge.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\8.IncreaseMinionsAge\bin\Debug\8.IncreaseMinionsAge.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\8.IncreaseMinionsAge\bin\Debug\8.IncreaseMinionsAge.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\8.IncreaseMinionsAge\obj\Debug\8.IncreaseMinionsAge.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\8.IncreaseMinionsAge\obj\Debug\8.IncreaseMinionsAge.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\8.IncreaseMinionsAge\obj\Debug\8.IncreaseMinionsAge.pdb

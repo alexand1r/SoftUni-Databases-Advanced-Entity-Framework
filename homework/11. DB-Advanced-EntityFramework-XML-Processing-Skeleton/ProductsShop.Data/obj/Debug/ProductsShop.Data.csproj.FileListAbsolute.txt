@@ -1,0 +1,12 @@
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll.config
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\ProductsShop.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\ProductsShop.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\ProductsShop.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\ProductsShop.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\obj\Debug\ProductsShop.Data.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\obj\Debug\ProductsShop.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\ProductsShop.Data\obj\Debug\ProductsShop.Data.pdb

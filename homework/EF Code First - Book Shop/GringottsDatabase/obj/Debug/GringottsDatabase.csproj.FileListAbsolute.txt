@@ -1,0 +1,10 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\GringottsDatabase.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\obj\Debug\GringottsDatabase.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\GringottsDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\GringottsDatabase.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\obj\Debug\GringottsDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\GringottsDatabase\obj\Debug\GringottsDatabase.pdb

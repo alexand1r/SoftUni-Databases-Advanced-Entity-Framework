@@ -1,0 +1,14 @@
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSystem.Queries.exe.config
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSystem.Queries.exe
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSystem.Queries.pdb
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSystem.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSytem.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSystem.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\BookShopSytem.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\obj\Debug\BookShopSystem.Queries.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\obj\Debug\BookShopSystem.Queries.exe
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Queries\obj\Debug\BookShopSystem.Queries.pdb

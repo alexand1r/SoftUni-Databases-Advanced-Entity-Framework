@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\08. DB-Advanced-EntityFramework-Best-Practices-PhotoShare-Solution\PhotoShare.Solution\PhotoShare.Client\bin\Debug\PhotoShare.Client.exe.config

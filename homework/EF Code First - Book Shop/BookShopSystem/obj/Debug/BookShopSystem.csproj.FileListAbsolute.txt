@@ -1,0 +1,12 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\BookShopSystem.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\BookShopSystem.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\BookShopSystem.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\obj\Debug\BookShopSystem.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\obj\Debug\BookShopSystem.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\obj\Debug\BookShopSystem.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\EntityFramework.Extended.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\BookShopSystem\bin\Debug\EntityFramework.Extended.xml

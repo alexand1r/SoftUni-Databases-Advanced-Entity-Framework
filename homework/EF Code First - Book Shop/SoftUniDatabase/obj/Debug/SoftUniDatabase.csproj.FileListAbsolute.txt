@@ -1,0 +1,9 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\SoftUniDatabase.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\SoftUniDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\SoftUniDatabase.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\obj\Debug\SoftUniDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\EF Code First - Book Shop\SoftUniDatabase\obj\Debug\SoftUniDatabase.pdb

@@ -1,0 +1,12 @@
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll.config
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSystem.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSytem.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\BookShopSytem.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\BookShopSystem-Solution\BookShopSystem\BookShopSystem.Data\obj\Debug\BookShopSystem.Data.pdb

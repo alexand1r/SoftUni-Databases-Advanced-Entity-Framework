@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Models\bin\Debug\RestaurantSystem.Models.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Models\bin\Debug\RestaurantSystem.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Models\bin\Debug\RestaurantSystem.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Models\obj\Debug\RestaurantSystem.Models.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Models\obj\Debug\RestaurantSystem.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Models\obj\Debug\RestaurantSystem.Models.pdb

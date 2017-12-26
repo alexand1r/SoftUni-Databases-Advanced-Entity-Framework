@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\SpriteTest\SpriteTestContent\obj\x86\Debug\SpriteTestContent.contentprojResolveAssemblyReference.cache

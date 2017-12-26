@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShopSystem", "BookShopSystem\BookShopSystem.csproj", "{030338D2-3D7A-4DB1-822D-CC4A356174BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniDatabase", "SoftUniDatabase\SoftUniDatabase.csproj", "{04DA3058-204B-46E8-8939-58BB94615EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GringottsDatabase", "GringottsDatabase\GringottsDatabase.csproj", "{5E76996A-9681-4832-80BC-F171297DAEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030338D2-3D7A-4DB1-822D-CC4A356174BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030338D2-3D7A-4DB1-822D-CC4A356174BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030338D2-3D7A-4DB1-822D-CC4A356174BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030338D2-3D7A-4DB1-822D-CC4A356174BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DA3058-204B-46E8-8939-58BB94615EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DA3058-204B-46E8-8939-58BB94615EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DA3058-204B-46E8-8939-58BB94615EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DA3058-204B-46E8-8939-58BB94615EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E76996A-9681-4832-80BC-F171297DAEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E76996A-9681-4832-80BC-F171297DAEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E76996A-9681-4832-80BC-F171297DAEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E76996A-9681-4832-80BC-F171297DAEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

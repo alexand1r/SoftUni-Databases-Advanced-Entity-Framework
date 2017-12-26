@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\4.Students\bin\Debug\4.Students.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\4.Students\bin\Debug\4.Students.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\4.Students\bin\Debug\4.Students.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\4.Students\obj\Debug\4.Students.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\4.Students\obj\Debug\4.Students.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\4.Students\obj\Debug\4.Students.pdb

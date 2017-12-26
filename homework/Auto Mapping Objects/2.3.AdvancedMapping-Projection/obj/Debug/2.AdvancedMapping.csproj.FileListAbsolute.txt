@@ -1,0 +1,13 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\2.AdvancedMapping.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\2.AdvancedMapping.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\2.AdvancedMapping.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\AutoMapper.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\System.ValueTuple.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\AutoMapper.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\obj\Debug\2.AdvancedMapping.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\obj\Debug\2.AdvancedMapping.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\2.AdvancedMapping\obj\Debug\2.AdvancedMapping.csprojResolveAssemblyReference.cache

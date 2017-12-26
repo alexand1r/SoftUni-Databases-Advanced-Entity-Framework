@@ -1,0 +1,16 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.App.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.App.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.App.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\TeamBuilder.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\obj\Debug\TeamBuilder.App.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\obj\Debug\TeamBuilder.App.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\obj\Debug\TeamBuilder.App.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\Newtonsoft.Json.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Team Builder\TeamBuilder.App\bin\Debug\Newtonsoft.Json.xml

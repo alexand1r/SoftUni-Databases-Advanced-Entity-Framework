@@ -1,0 +1,13 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\1.SimpleMapping.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\1.SimpleMapping.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\1.SimpleMapping.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\AutoMapper.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\System.ValueTuple.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\AutoMapper.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\obj\Debug\1.SimpleMapping.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\obj\Debug\1.SimpleMapping.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Auto Mapping Objects\1.SimpleMapping\obj\Debug\1.SimpleMapping.pdb

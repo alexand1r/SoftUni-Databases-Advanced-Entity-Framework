@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\TestGame\LoadingMapsTest\LoadingMapsTestContent\obj\x86\Debug\LoadingMapsTestContent.contentprojResolveAssemblyReference.cache

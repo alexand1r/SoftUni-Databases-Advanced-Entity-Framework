@@ -1,0 +1,14 @@
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.App.exe.config
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.App.exe
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.App.pdb
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\CarDealer.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\obj\Debug\CarDealer.App.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\obj\Debug\CarDealer.App.exe
+C:\softuni\Databases Advanced - Entity Framework\11. DB-Advanced-EntityFramework-XML-Processing-Skeleton\CarDealer.App\obj\Debug\CarDealer.App.pdb

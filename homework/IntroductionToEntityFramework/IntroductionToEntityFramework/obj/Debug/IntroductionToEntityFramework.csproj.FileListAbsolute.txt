@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\IntroductionToEntityFramework\bin\Debug\IntroductionToEntityFramework.exe.config

@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\1.DefineAClassPerson\bin\Debug\1.DefineAClassPerson.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\1.DefineAClassPerson\bin\Debug\1.DefineAClassPerson.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\1.DefineAClassPerson\bin\Debug\1.DefineAClassPerson.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\1.DefineAClassPerson\obj\Debug\1.DefineAClassPerson.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\1.DefineAClassPerson\obj\Debug\1.DefineAClassPerson.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\1.DefineAClassPerson\obj\Debug\1.DefineAClassPerson.pdb

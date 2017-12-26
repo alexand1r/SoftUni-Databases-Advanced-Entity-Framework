@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\3.OldestFamilyMember\bin\Debug\3.OldestFamilyMember.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\3.OldestFamilyMember\bin\Debug\3.OldestFamilyMember.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\3.OldestFamilyMember\bin\Debug\3.OldestFamilyMember.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\3.OldestFamilyMember\obj\Debug\3.OldestFamilyMember.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\3.OldestFamilyMember\obj\Debug\3.OldestFamilyMember.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\3.OldestFamilyMember\obj\Debug\3.OldestFamilyMember.pdb

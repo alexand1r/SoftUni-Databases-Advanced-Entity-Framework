@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.RemoveVillain\bin\Debug\5.RemoveVillain.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.RemoveVillain\bin\Debug\5.RemoveVillain.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.RemoveVillain\bin\Debug\5.RemoveVillain.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.RemoveVillain\obj\Debug\5.RemoveVillain.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.RemoveVillain\obj\Debug\5.RemoveVillain.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.RemoveVillain\obj\Debug\5.RemoveVillain.pdb

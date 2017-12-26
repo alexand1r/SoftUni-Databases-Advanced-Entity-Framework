@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGame", "TestGame\TestGame\TestGame.csproj", "{0FFA0885-C9F1-47BD-B91D-09A15AB5ABAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGameContent", "TestGame\TestGameContent\TestGameContent.contentproj", "{FA0418C9-A8FC-402C-8285-0B075C95F503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteTest", "SpriteTest\SpriteTest\SpriteTest.csproj", "{5EC1D8A9-70D1-419C-8FBA-FC9E983FD917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteTestContent", "SpriteTest\SpriteTestContent\SpriteTestContent.contentproj", "{74BCA3DE-414E-4A03-B915-55C61D9CF07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionTest", "CollisionTest\CollisionTest\CollisionTest.csproj", "{703D976D-7D30-4D69-B1AF-18DCCAF23A9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionTestContent", "CollisionTest\CollisionTestContent\CollisionTestContent.contentproj", "{635FDA25-BE1E-4CB3-B4BE-AB245EDCCDEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadingMapsTest", "LoadingMapsTest\LoadingMapsTest\LoadingMapsTest.csproj", "{3A1E39AF-C1FF-44DF-B91A-B8FF84C36442}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LoadingMapsTestContent", "LoadingMapsTest\LoadingMapsTestContent\LoadingMapsTestContent.contentproj", "{F97B5245-4276-4587-9FEF-2D5F545EB417}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GravityTest", "GravityTest\GravityTest\GravityTest.csproj", "{0D666C2F-42C7-4C41-A505-500E5B99336A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GravityTestContent", "GravityTest\GravityTestContent\GravityTestContent.contentproj", "{18B25A09-14BF-4B13-BDEE-A85E1B6701C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FFA0885-C9F1-47BD-B91D-09A15AB5ABAB}.Debug|x86.ActiveCfg = Debug|x86
+		{0FFA0885-C9F1-47BD-B91D-09A15AB5ABAB}.Debug|x86.Build.0 = Debug|x86
+		{0FFA0885-C9F1-47BD-B91D-09A15AB5ABAB}.Release|x86.ActiveCfg = Release|x86
+		{0FFA0885-C9F1-47BD-B91D-09A15AB5ABAB}.Release|x86.Build.0 = Release|x86
+		{FA0418C9-A8FC-402C-8285-0B075C95F503}.Debug|x86.ActiveCfg = Debug|x86
+		{FA0418C9-A8FC-402C-8285-0B075C95F503}.Release|x86.ActiveCfg = Release|x86
+		{5EC1D8A9-70D1-419C-8FBA-FC9E983FD917}.Debug|x86.ActiveCfg = Debug|x86
+		{5EC1D8A9-70D1-419C-8FBA-FC9E983FD917}.Debug|x86.Build.0 = Debug|x86
+		{5EC1D8A9-70D1-419C-8FBA-FC9E983FD917}.Release|x86.ActiveCfg = Release|x86
+		{5EC1D8A9-70D1-419C-8FBA-FC9E983FD917}.Release|x86.Build.0 = Release|x86
+		{74BCA3DE-414E-4A03-B915-55C61D9CF07A}.Debug|x86.ActiveCfg = Debug|x86
+		{74BCA3DE-414E-4A03-B915-55C61D9CF07A}.Release|x86.ActiveCfg = Release|x86
+		{703D976D-7D30-4D69-B1AF-18DCCAF23A9C}.Debug|x86.ActiveCfg = Debug|x86
+		{703D976D-7D30-4D69-B1AF-18DCCAF23A9C}.Debug|x86.Build.0 = Debug|x86
+		{703D976D-7D30-4D69-B1AF-18DCCAF23A9C}.Release|x86.ActiveCfg = Release|x86
+		{703D976D-7D30-4D69-B1AF-18DCCAF23A9C}.Release|x86.Build.0 = Release|x86
+		{635FDA25-BE1E-4CB3-B4BE-AB245EDCCDEB}.Debug|x86.ActiveCfg = Debug|x86
+		{635FDA25-BE1E-4CB3-B4BE-AB245EDCCDEB}.Release|x86.ActiveCfg = Release|x86
+		{3A1E39AF-C1FF-44DF-B91A-B8FF84C36442}.Debug|x86.ActiveCfg = Debug|x86
+		{3A1E39AF-C1FF-44DF-B91A-B8FF84C36442}.Debug|x86.Build.0 = Debug|x86
+		{3A1E39AF-C1FF-44DF-B91A-B8FF84C36442}.Release|x86.ActiveCfg = Release|x86
+		{3A1E39AF-C1FF-44DF-B91A-B8FF84C36442}.Release|x86.Build.0 = Release|x86
+		{F97B5245-4276-4587-9FEF-2D5F545EB417}.Debug|x86.ActiveCfg = Debug|x86
+		{F97B5245-4276-4587-9FEF-2D5F545EB417}.Release|x86.ActiveCfg = Release|x86
+		{0D666C2F-42C7-4C41-A505-500E5B99336A}.Debug|x86.ActiveCfg = Debug|x86
+		{0D666C2F-42C7-4C41-A505-500E5B99336A}.Debug|x86.Build.0 = Debug|x86
+		{0D666C2F-42C7-4C41-A505-500E5B99336A}.Release|x86.ActiveCfg = Release|x86
+		{0D666C2F-42C7-4C41-A505-500E5B99336A}.Release|x86.Build.0 = Release|x86
+		{18B25A09-14BF-4B13-BDEE-A85E1B6701C2}.Debug|x86.ActiveCfg = Debug|x86
+		{18B25A09-14BF-4B13-BDEE-A85E1B6701C2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

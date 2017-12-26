@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PlanetHunters.Export
+{
+    class StartUp
+    {
+        static void Main(string[] args)
+        {
+            ExportJson.ExportPlanets("TRAPPIST");
+            ExportJson.ExportAstronomers("Alpha Centauri");
+            //ExportXml.ExportStars();
+        }
+    }
+}

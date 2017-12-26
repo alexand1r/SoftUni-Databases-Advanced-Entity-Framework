@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\4.AddMinion\bin\Debug\4.AddMinion.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\4.AddMinion\bin\Debug\4.AddMinion.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\4.AddMinion\bin\Debug\4.AddMinion.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\4.AddMinion\obj\Debug\4.AddMinion.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\4.AddMinion\obj\Debug\4.AddMinion.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\4.AddMinion\obj\Debug\4.AddMinion.pdb

@@ -1,0 +1,10 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\8.CreateUser.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\8.CreateUser.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\8.CreateUser.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\obj\Debug\8.11.12.User.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\obj\Debug\8.CreateUser.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\8.CreateUser\obj\Debug\8.CreateUser.pdb

@@ -1,0 +1,12 @@
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll.config
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\ExamPrep.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Data\obj\Debug\ExamPrep.Data.pdb

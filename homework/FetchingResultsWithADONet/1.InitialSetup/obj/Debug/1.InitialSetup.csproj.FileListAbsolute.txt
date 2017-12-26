@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\1.InitialSetup\bin\Debug\1.InitialSetup.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\1.InitialSetup\bin\Debug\1.InitialSetup.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\1.InitialSetup\bin\Debug\1.InitialSetup.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\1.InitialSetup\obj\Debug\1.InitialSetup.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\1.InitialSetup\obj\Debug\1.InitialSetup.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\1.InitialSetup\obj\Debug\1.InitialSetup.pdb

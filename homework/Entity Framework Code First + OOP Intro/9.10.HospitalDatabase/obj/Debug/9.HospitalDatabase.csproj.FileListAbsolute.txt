@@ -1,0 +1,10 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\9.HospitalDatabase.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\9.HospitalDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\9.HospitalDatabase.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\obj\Debug\9.HospitalDatabase.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\obj\Debug\9.HospitalDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\9.HospitalDatabase\obj\Debug\9.HospitalDatabase.pdb

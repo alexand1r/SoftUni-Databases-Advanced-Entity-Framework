@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\Massdefect\04. MassDefect-ExportJSON\bin\Debug\_04.MassDefect_ExportJSON.exe.config

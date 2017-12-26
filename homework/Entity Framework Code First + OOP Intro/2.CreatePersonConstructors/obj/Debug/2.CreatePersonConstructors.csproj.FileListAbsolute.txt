@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\2.CreatePersonConstructors\bin\Debug\2.CreatePersonConstructors.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\2.CreatePersonConstructors\bin\Debug\2.CreatePersonConstructors.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\2.CreatePersonConstructors\bin\Debug\2.CreatePersonConstructors.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\2.CreatePersonConstructors\obj\Debug\2.CreatePersonConstructors.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\2.CreatePersonConstructors\obj\Debug\2.CreatePersonConstructors.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\2.CreatePersonConstructors\obj\Debug\2.CreatePersonConstructors.pdb

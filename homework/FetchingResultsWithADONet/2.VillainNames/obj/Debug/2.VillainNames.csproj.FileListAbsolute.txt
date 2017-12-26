@@ -1,0 +1,5 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\2.VillainNames\bin\Debug\2.VillainNames.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\2.VillainNames\bin\Debug\2.VillainNames.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\2.VillainNames\bin\Debug\2.VillainNames.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\2.VillainNames\obj\Debug\2.VillainNames.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\2.VillainNames\obj\Debug\2.VillainNames.pdb

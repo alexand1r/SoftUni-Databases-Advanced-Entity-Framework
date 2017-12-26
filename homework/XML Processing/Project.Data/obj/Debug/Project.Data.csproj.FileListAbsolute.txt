@@ -1,0 +1,14 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\obj\Debug\Project.Data.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Project.Data.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Project.Data.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Project.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Project.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Project.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\obj\Debug\Project.Data.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\obj\Debug\Project.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Newtonsoft.Json.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\JSON Processing\Project.Data\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\Massdefect\03. MassDefect-ImportXML\bin\Debug\_03.MassDefect_ImportXML.exe.config

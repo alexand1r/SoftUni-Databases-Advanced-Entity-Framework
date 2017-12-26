@@ -1,0 +1,9 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\_14.First_Letter__Gringotts_Database_.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\_14.First_Letter__Gringotts_Database_.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\_14.First_Letter__Gringotts_Database_.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\obj\Debug\_14.First_Letter__Gringotts_Database_.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\IntroductionToEntityFramework\14. First Letter (Gringotts Database)\obj\Debug\_14.First_Letter__Gringotts_Database_.pdb

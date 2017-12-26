@@ -1,0 +1,5 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\5.PlanckConstant\bin\Debug\5.PlanckConstant.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\5.PlanckConstant\bin\Debug\5.PlanckConstant.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\5.PlanckConstant\bin\Debug\5.PlanckConstant.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\5.PlanckConstant\obj\Debug\5.PlanckConstant.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\5.PlanckConstant\obj\Debug\5.PlanckConstant.pdb

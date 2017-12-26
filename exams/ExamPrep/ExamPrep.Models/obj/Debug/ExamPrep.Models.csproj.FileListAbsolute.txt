@@ -1,0 +1,5 @@
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Models\bin\Debug\ExamPrep.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.dll
+C:\softuni\Databases Advanced - Entity Framework\ExamPrep\ExamPrep.Models\obj\Debug\ExamPrep.Models.pdb

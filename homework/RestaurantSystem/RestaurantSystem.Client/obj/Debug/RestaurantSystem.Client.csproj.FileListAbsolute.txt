@@ -1,0 +1,14 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Client.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Client.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Client.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Data.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Models.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Data.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\RestaurantSystem.Models.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\obj\Debug\RestaurantSystem.Client.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\obj\Debug\RestaurantSystem.Client.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\RestaurantSystem\RestaurantSystem.Client\obj\Debug\RestaurantSystem.Client.pdb

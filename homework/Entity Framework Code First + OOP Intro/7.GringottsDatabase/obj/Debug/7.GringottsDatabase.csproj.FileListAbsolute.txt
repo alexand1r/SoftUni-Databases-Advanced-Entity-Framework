@@ -1,0 +1,10 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\7.GringottsDatabase.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\7.GringottsDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\7.GringottsDatabase.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\EntityFramework.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\EntityFramework.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\obj\Debug\7.GringottsDatabase.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\obj\Debug\7.GringottsDatabase.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\7.GringottsDatabase\obj\Debug\7.GringottsDatabase.pdb

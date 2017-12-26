@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Models", "PlanetHunters.Models\PlanetHunters.Models.csproj", "{80E176D6-3EF9-4252-9291-BA1F22EE02DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Data", "PlanetHunters.Data\PlanetHunters.Data.csproj", "{C53BF074-90EC-4812-89CC-3934B161D139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Client", "PlanetHunters.Client\PlanetHunters.Client.csproj", "{F932E5F7-ED20-45FF-834D-B7BC33351BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Import", "PlanetHunters.Import\PlanetHunters.Import.csproj", "{930D2D26-463E-4202-A635-61BA465855FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunters.Export", "PlanetHunters.Export\PlanetHunters.Export.csproj", "{0A959AF2-ECD6-4ABE-AC81-133D94242BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E176D6-3EF9-4252-9291-BA1F22EE02DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E176D6-3EF9-4252-9291-BA1F22EE02DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E176D6-3EF9-4252-9291-BA1F22EE02DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E176D6-3EF9-4252-9291-BA1F22EE02DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C53BF074-90EC-4812-89CC-3934B161D139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53BF074-90EC-4812-89CC-3934B161D139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53BF074-90EC-4812-89CC-3934B161D139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53BF074-90EC-4812-89CC-3934B161D139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F932E5F7-ED20-45FF-834D-B7BC33351BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F932E5F7-ED20-45FF-834D-B7BC33351BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F932E5F7-ED20-45FF-834D-B7BC33351BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F932E5F7-ED20-45FF-834D-B7BC33351BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{930D2D26-463E-4202-A635-61BA465855FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{930D2D26-463E-4202-A635-61BA465855FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{930D2D26-463E-4202-A635-61BA465855FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{930D2D26-463E-4202-A635-61BA465855FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A959AF2-ECD6-4ABE-AC81-133D94242BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A959AF2-ECD6-4ABE-AC81-133D94242BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A959AF2-ECD6-4ABE-AC81-133D94242BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A959AF2-ECD6-4ABE-AC81-133D94242BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

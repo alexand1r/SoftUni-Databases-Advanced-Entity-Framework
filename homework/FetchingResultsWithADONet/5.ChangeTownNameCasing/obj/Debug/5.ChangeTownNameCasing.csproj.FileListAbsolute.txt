@@ -1,0 +1,6 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.ChangeTownNameCasing\bin\Debug\5.ChangeTownNameCasing.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.ChangeTownNameCasing\bin\Debug\5.ChangeTownNameCasing.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.ChangeTownNameCasing\bin\Debug\5.ChangeTownNameCasing.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.ChangeTownNameCasing\obj\Debug\5.ChangeTownNameCasing.csprojResolveAssemblyReference.cache
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.ChangeTownNameCasing\obj\Debug\5.ChangeTownNameCasing.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\FetchingResultsWithADONet\5.ChangeTownNameCasing\obj\Debug\5.ChangeTownNameCasing.pdb

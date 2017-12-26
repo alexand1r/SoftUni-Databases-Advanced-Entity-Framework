@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\Massdefect\02. MassDefect-ImportJSON\bin\Debug\_02.MassDefect_ImportJSON.exe.config

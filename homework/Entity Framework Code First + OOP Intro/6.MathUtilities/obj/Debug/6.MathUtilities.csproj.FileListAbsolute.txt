@@ -1,0 +1,5 @@
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\6.MathUtilities\bin\Debug\6.MathUtilities.exe.config
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\6.MathUtilities\bin\Debug\6.MathUtilities.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\6.MathUtilities\bin\Debug\6.MathUtilities.pdb
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\6.MathUtilities\obj\Debug\6.MathUtilities.exe
+C:\softuni\Databases Advanced - Entity Framework\homework\Entity Framework Code First + OOP Intro\6.MathUtilities\obj\Debug\6.MathUtilities.pdb

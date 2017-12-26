@@ -1,0 +1,1 @@
+C:\softuni\Databases Advanced - Entity Framework\Massdefect\01. MassDefect-CodeFirst\bin\Debug\_01.MassDefect_CodeFirst.exe.config
